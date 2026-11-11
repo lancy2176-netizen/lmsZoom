@@ -26,6 +26,12 @@
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>Camera access lets you send live video in a Zoom Video SDK session.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Microphone access lets you send audio in a Zoom Video SDK session.</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Bluetooth access lets you use Bluetooth audio devices during a Zoom Video SDK session.</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
